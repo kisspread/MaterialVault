@@ -25,7 +25,7 @@ public class MaterialVault : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core", "Blutility", "EditorScriptingUtilities", "UMG" 
+				"Core", "Blutility", "UMG" 
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
